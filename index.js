@@ -75,39 +75,51 @@ const songs = [
     },
     {
         path: 'assets/10.mp3',
-        displayName: 'Arrival of the Birds',
-        cover: 'assets/10.jpeg',
-        artist: 'The Cinematic Orchestra',
-    },
-    {
-        path: 'assets/11.mp3',
-        displayName: 'Now We Are Free',
-        cover: 'assets/11.jpeg',
-        artist: 'Hans Zimmer',
-    },
-    {
-        path: 'assets/12.mp3',
-        displayName: 'The Belt of Faith',
-        cover: 'assets/12.jpeg',
-        artist: 'Jung Jae-il',
-    },
-    {
-        path: 'assets/13.mp3',
-        displayName: 'Conquest of Paradise',
-        cover: 'assets/13.jpeg',
-        artist: 'Vangelis',
-    },
-    {
-        path: 'assets/14.mp3',
         displayName: 'Für Elise, WoO 59',
-        cover: 'assets/14.jpeg',
+        cover: 'assets/10.jpeg',
         artist: 'Ludwig van Beethoven',
     },
     {
-        path: 'assets/15.mp3',
+        path: 'assets/11.mp3',
         displayName: 'Orchestral Suite No. 3 in D Major',
-        cover: 'assets/15.jpeg',
+        cover: 'assets/11.jpeg',
         artist: 'Johann Sebastian Bach',
+    },
+    {
+        path: 'assets/12.mp3',
+        displayName: 'Arrival of the Birds',
+        cover: 'assets/12.jpeg',
+        artist: 'The Cinematic Orchestra',
+    },
+    {
+        path: 'assets/13.mp3',
+        displayName: 'Now We Are Free',
+        cover: 'assets/13.jpeg',
+        artist: 'Hans Zimmer',
+    },
+    {
+        path: 'assets/14.mp3',
+        displayName: 'The Belt of Faith',
+        cover: 'assets/14.jpeg',
+        artist: 'Jung Jae-il',
+    },
+    {
+        path: 'assets/15.mp3',
+        displayName: 'Conquest of Paradise',
+        cover: 'assets/15.jpeg',
+        artist: 'Vangelis',
+    },
+    {
+        path: 'assets/16.mp3',
+        displayName: 'Cornfield Chase',
+        cover: 'assets/16.jpeg',
+        artist: 'Hans Zimmer',
+    },
+    {
+        path: 'assets/17.mp3',
+        displayName: 'Time',
+        cover: 'assets/17.jpeg',
+        artist: 'Hans Zimmer',
     },
 ];
 
