@@ -23,4 +23,4 @@ Veja uma demonstração ao vivo do projeto [aqui](http://classic.loandre.com).
 1. Clone este repositório em sua máquina local usando `git clone`:
 
    ```bash
-   git clone https://github.com/loandre/classic-music-player.git
+   git clone https://github.com/loandre/ClassicMusicPlayer.git
