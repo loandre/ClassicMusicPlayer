@@ -121,6 +121,18 @@ const songs = [
         cover: 'assets/17.jpeg',
         artist: 'Hans Zimmer',
     },
+    {
+        path: 'assets/18.mp3',
+        displayName: 'classical music but its lofi II',
+        cover: 'assets/18.png',
+        artist: 'Classical Music But',
+    },
+    {
+        path: 'assets/19.mp3',
+        displayName: 'classical music but its lofi VII',
+        cover: 'assets/19.png',
+        artist: 'Classical Music But',
+    },
 ];
 
 let musicIndex = 0;
